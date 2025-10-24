@@ -1,1 +1,1 @@
-my githubId:wyxmttk
+githubId:wyxmttk
